@@ -10,7 +10,7 @@ class UserDevicePermission extends API_Controller
         //        $token = $this->input->post('token');
         //        $this->user = $this->checkToken($token);
         //        $this->user_id = $this->user['id'];
-        $this->user_id = 5;
+        $this->user_id = 8;
     }
 
     public function add()

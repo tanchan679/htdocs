@@ -18,4 +18,4 @@
 	- list // list alarm of device 							GET
 	- Test update
 	Alo
-	DOne ok. ok 
+	DOne ok. ok # device_permission
